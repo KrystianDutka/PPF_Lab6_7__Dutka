@@ -2,7 +2,7 @@ import './App.css';
 import {CFooter} from './components/CFooter'
 import CHeader from './components/CHeader'
 import CContents from './components/CContents'
-
+//React-02-komponenty
 function App() {
   return (
     <div className="App">
