@@ -1,13 +1,10 @@
-{
-"count": 4,
-"text": [
-
-"Żaba woda drasta do 9 cm długości ciała. Tak samo jak w przypadku innych płazów bezogonowych samiec jest mniejszy od samicy. Podczas godów samce przybeirają lekko żółtawy odcień, podobnie jak żaba jeziorkowa.",
-
-"Biedronka siedmiokropka, boża krówka – gatunek chrząszcza z rodziny biedronkowatych. Powszechnie występująca w Europie. Jedna z 76 występujących w Polsce biedronkowatych, potocznie nazywana bożą krówką.",
-
-"Pająki – najliczniejszy rząd pajęczaków, należy do niego ponad 40 tys. opisanych gatunków. Są to zwierzęta głównie lądowe, o rozmiarach od 0,5 mm do 12 cm ciała i do ok. 32 cm rozstawu odnóży. Często samice są większe od samców.",
-
-"Pająki – najliczniejszy rząd pajęczaków, należy do niego ponad 40 tys. opisanych gatunków. Są to zwierzęta głównie lądowe, o rozmiarach od 0,5 mm do 12 cm ciała i do ok. 32 cm rozstawu odnóży. Często samice są większe od samców."
+[
+    {
+        "id1": 1,
+        "text1": "Ryan García (ur. 8 sierpnia 1998 w Victorville) – amerykański pięściarz zawodowy, tymczasowy mistrz świata federacji WBC w wadze lekkiej."
+    },
+    {
+        "id2": 2,
+        "text2": "Amerykanin Ryan Garcia (21-0, 18 KO) znokautował w siódmej rundzie Anglika Luke'a Campbella (20-4, 16 KO) w walce wieczoru gali bokserskiej w Dallas. Garcia zdobył wakujący tzw. tymczasowy (interim) pas mistrza świata WBC w wadze lekkiej."
+    }
 ]
-}

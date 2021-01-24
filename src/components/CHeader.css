@@ -1,27 +1,18 @@
-.headerContainer{
+.flex {
+    height: 500px;
+    justify-content: center;
+    align-content: center;
+}
+
+.flex2 {
     display: flex;
+    font-size: medium;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
 }
 
-.headerLogo{
-    height: 15vmin;
-    pointer-events: none;
+.flex3 {
+    font-size: 20px;
 }
 
-.headerContainer h2 {
-    flex-grow: 1;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-    .headerLogo {
-      animation: App-logo-spin infinite 20s linear;
-    }
-  }
-@keyframes App-logo-spin {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
-  
